@@ -8,7 +8,7 @@ const service = {
         callback(null, { result: "Data for GetCursOnDateXML" });
       },
       GetCursDynamicXML: function (args, callback) {
-        callback(null, { result: "Data for GetCursOnDateXML" });
+        callback(null, { result: "Data for GetCursDynamicXML" });
       },
     },
   },
